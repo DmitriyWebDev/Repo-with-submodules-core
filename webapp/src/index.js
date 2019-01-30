@@ -1,1 +1,0 @@
-alert('I am a web application!')
