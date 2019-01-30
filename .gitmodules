@@ -1,3 +1,4 @@
 [submodule "webapp"]
 	path = webapp
 	url = https://github.com/DmitriyWebDev/Repo-submodule-webapp.git
+	ignore = dirty
